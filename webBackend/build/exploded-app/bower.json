@@ -1,0 +1,30 @@
+{
+  "name": "webapp",
+  "authors": [
+    "Nicholas Pesa <npesa1992@gmail.com>"
+  ],
+  "description": "TTWebContent",
+  "main": "index.html",
+  "keywords": [
+    "TTWeb"
+  ],
+  "license": "MIT",
+  "homepage": "www.ttmarketinggroup.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7",
+    "core-elements": "Polymer/core-elements#^0.5.6",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.9"
+  },
+  "resolutions": {
+    "polymer": "^1.4.0",
+    "webcomponentsjs": "0.7.21"
+  }
+}
